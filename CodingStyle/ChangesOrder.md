@@ -1,4 +1,4 @@
-# Commits order
+# Changes order
 This document describes recommended code changes order.
 - Refactoring
 	- Redundant content (delete)
