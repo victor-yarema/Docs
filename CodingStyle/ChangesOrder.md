@@ -6,7 +6,7 @@ This document describes recommended code changes order.
 		- Code in files
 		- Comments
 			- Language specific documentation
-			- Comments that state something that is well known (documented)
+			- Those that state something that is well known (documented)
 		- Ws (whitespace)
 			- Trailing
 			- Indentation
