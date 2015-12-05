@@ -11,6 +11,9 @@ This document describes recommended code changes order.
 			- Trailing
 			- Indentation
 			- Multiple consequent ws chars between non-ws chars in line
+	- Ws (whitespace)
+		- Break (wrap) long line
+		- Add line break between items in long list
 	- Invert conditional statements to achieve *early exit* and decrease indentation
 	- Spread code to multiple separate files (*single responsibility*)
 - Implementation
