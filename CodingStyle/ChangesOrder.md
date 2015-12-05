@@ -11,6 +11,7 @@ This document describes recommended code changes order.
 			- Trailing
 			- Indentation
 			- Multiple consequent ws chars between non-ws chars in line
+			- Automated formatting
 	- Ws (whitespace)
 		- Break (wrap) long line
 		- Add line break between items in long list
