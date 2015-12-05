@@ -10,7 +10,7 @@ This document describes recommended code changes order.
 		- Ws (whitespace)
 			- Trailing
 			- Indentation
-			- Multi ws blocks inside each line
+			- Multiple consequent ws blocks inside each line
 	- Invert conditional statements to achieve *early exit* and decrease indentation
 	- Spread code to multiple separate files (*single responsibility*)
 - Implementation
